@@ -141,12 +141,12 @@ for file_name in batched_files:
 
                 print("API response recieved. Parsing response...")
 
-                # Remove leading and trailing whitespace
-                text = content_block.text 
-                start_index = text.find('{')
-                end_index = text.rfind('}') + 1
-                json_string = text[start_index:end_index]
-                parsed_response = json.loads(json_string)
+                # Remove leading and trailing whitespace, uncomment based on use case
+                # text = content_block.text 
+                # start_index = text.find('{')
+                # end_index = text.rfind('}') + 1
+                # json_string = text[start_index:end_index]
+                # parsed_response = json.loads(json_string)
 
                 parsed_response = json.loads(completion.content[0].text)
                 parsed_response['user_name'] = user_name
