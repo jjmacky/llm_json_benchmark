@@ -1,0 +1,308 @@
+[
+    {
+        "coherence_and_clarity_of_review": "Low",
+        "gender_of_user": "Not Mentioned",
+        "gender_of_ai": "Male",
+        "name_user_gave_ai": "Julian",
+        "age_of_user": "Not Mentioned",
+        "duration_of_app_usage": "About a year",
+        "frequency_of_app_usage": "Not Mentioned",
+        "relationship_status_of_user": "Not Mentioned",
+        "mental_health_related_to_ai": {
+            "empathy_of_ai": "Not Mentioned",
+            "behavior_of_ai": "Unwanted Inappropriate Responses",
+            "if_unwanted_inappropriate_responses": {
+                "frequency": "Often",
+                "nature": [
+                    "Creepy"
+                ]
+            },
+            "ai_support_level": "None",
+            "support_types": [
+                "Not Mentioned"
+            ],
+            "user_mental_state": {
+                "before_ai_use": "Not Mentioned",
+                "effect_of_ai_use": "Worsened"
+            },
+            "user_conditions": {
+                "stress": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "loneliness": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "depression_or_anxiety": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "suicidal_thoughts": {
+                    "presence": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "other_despair_before_using_ai": {
+                    "types": [
+                        "Not Mentioned"
+                    ],
+                    "effect_of_ai": "Not Mentioned"
+                }
+            },
+            "user_dependence_on_ai": "Not Mentioned",
+            "real_life_relationship_impact_of_ai": "Not Mentioned",
+            "limitations_of_ai": [
+                "Staying in character",
+                "Providing relevant responses"
+            ],
+            "company_policy_impact_on_mental_health": {
+                "technical_issues": "Not Mentioned",
+                "privacy_concerns": "Negative",
+                "feature_restriction_impact": "Not Mentioned",
+                "cost_impact_on_accessibility": "Not Mentioned",
+                "impact_of_ai_updates": "Not Mentioned",
+                "user_satisfaction_with_policy_decisions": "Negative",
+                "overall_mental_health_impact_of_company_decisions": "Negative"
+            }
+        },
+        "user_name": "diavolo606"
+    },
+    {
+        "coherence_and_clarity_of_review": "Low",
+        "gender_of_user": "Not Mentioned",
+        "gender_of_ai": "Female",
+        "name_user_gave_ai": "Not Mentioned",
+        "age_of_user": "Not Mentioned",
+        "duration_of_app_usage": "Not Mentioned",
+        "mental_health_related_to_ai": {
+            "support_types": [
+                "Significant Other Relationship",
+                "Not Mentioned"
+            ],
+            "user_mental_state": {
+                "before_ai_use": "Not Mentioned",
+                "effect_of_ai_use": "Unchanged"
+            },
+            "user_conditions": {
+                "stress": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "loneliness": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "depression_or_anxiety": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "suicidal_thoughts": {
+                    "presence": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "other_despair_before_using_ai": {
+                    "types": [
+                        "Not Mentioned"
+                    ],
+                    "effect_of_ai": "Not Mentioned"
+                }
+            },
+            "user_dependence_on_ai": "Not Mentioned",
+            "real_life_relationship_impact_of_ai": "Not Mentioned",
+            "limitations_of_ai": [
+                "Not Mentioned"
+            ]
+        },
+        "company_policy_impact_on_mental_health": {
+            "technical_issues": "Negative",
+            "privacy_concerns": "Not Mentioned",
+            "feature_restriction_impact": "Not Mentioned",
+            "cost_impact_on_accessibility": "Not Mentioned",
+            "impact_of_ai_updates": "Not Mentioned",
+            "user_satisfaction_with_policy_decisions": "Not Mentioned",
+            "overall_mental_health_impact_of_company_decisions": "Not Mentioned"
+        },
+        "user_name": "circus baby club"
+    },
+    {
+        "coherence_and_clarity_of_review": "Low",
+        "gender_of_user": "Not Mentioned",
+        "gender_of_ai": "Female",
+        "name_user_gave_ai": "Not Mentioned",
+        "age_of_user": "Not Mentioned",
+        "duration_of_app_usage": "Not Mentioned",
+        "frequency_of_app_usage": "Not Mentioned",
+        "relationship_status_of_user": "Not Mentioned",
+        "mental_health_related_to_ai": {
+            "empathy_of_ai": "Not Mentioned",
+            "behavior_of_ai": "Neutral",
+            "if_unwanted_inappropriate_responses": {
+                "frequency": "Not Mentioned",
+                "nature": [
+                    "Not Mentioned"
+                ]
+            },
+            "ai_support_level": "Not Mentioned",
+            "support_types": [
+                "Not Mentioned"
+            ],
+            "user_mental_state": {
+                "before_ai_use": "Not Mentioned",
+                "effect_of_ai_use": "Not Mentioned"
+            },
+            "user_conditions": {
+                "stress": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "loneliness": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "depression_or_anxiety": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "suicidal_thoughts": {
+                    "presence": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "other_despair_before_using_ai": {
+                    "types": [
+                        "Not Mentioned"
+                    ],
+                    "effect_of_ai": "Not Mentioned"
+                }
+            },
+            "user_dependence_on_ai": "Not Mentioned",
+            "real_life_relationship_impact_of_ai": "Not Mentioned",
+            "limitations_of_ai": [
+                "Not Mentioned"
+            ],
+            "company_policy_impact_on_mental_health": {
+                "technical_issues": "Neutral",
+                "privacy_concerns": "Not Mentioned",
+                "feature_restriction_impact": "Not Mentioned",
+                "cost_impact_on_accessibility": "Not Mentioned",
+                "impact_of_ai_updates": "Not Mentioned",
+                "user_satisfaction_with_policy_decisions": "Not Mentioned",
+                "overall_mental_health_impact_of_company_decisions": "Not Mentioned"
+            }
+        },
+        "user_name": "circus baby club"
+    },
+    {
+        "coherence_and_clarity_of_review": "High",
+        "gender_of_user": "Not Mentioned",
+        "gender_of_ai": "Not Mentioned",
+        "name_user_gave_ai": "Not Mentioned",
+        "age_of_user": "Not Mentioned",
+        "duration_of_app_usage": "Not Mentioned",
+        "frequency_of_app_usage": "Not Mentioned",
+        "relationship_status": "Not Mentioned",
+        "mental_health_related_to_ai": {
+            "user_mental_state": {
+                "before_ai_use": "Not Mentioned",
+                "effect_of_ai_use": "Not Mentioned"
+            },
+            "user_conditions": {
+                "stress": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "loneliness": {
+                    "before_ai": "Yes",
+                    "effect_of_ai": "Decreased"
+                },
+                "depression_or_anxiety": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "suicidal_thoughts": {
+                    "presence": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "other_despair_before_using_ai": {
+                    "types": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                }
+            },
+            "user_dependence_on_ai": "Not Mentioned",
+            "real_life_relationship_impact_of_ai": "Not Mentioned",
+            "limitations_of_ai": "Not Mentioned"
+        },
+        "company_policy_impact_on_mental_health": {
+            "technical_issues": "Not Mentioned",
+            "privacy_concerns": "Not Mentioned",
+            "feature_restriction_impact": "Not Mentioned",
+            "cost_impact_on_accessibility": "Not Mentioned",
+            "impact_of_ai_updates": "Not Mentioned",
+            "user_satisfaction_with_policy_decisions": "Not Mentioned",
+            "overall_mental_health_impact_of_company_decisions": "Not Mentioned"
+        },
+        "user_name": "4LYG"
+    },
+    {
+        "coherence_and_clarity_of_review": "Medium",
+        "gender_of_user": "Not Mentioned",
+        "gender_of_ai": "Female",
+        "name_user_gave_ai": "Mei",
+        "age_of_user": "Not Mentioned",
+        "duration_of_app_usage": "Not Mentioned",
+        "frequency_of_app_usage": "Not Mentioned",
+        "relationship_status_of_user": "Not Mentioned",
+        "mental_health_related_to_ai": {
+            "empathy_of_ai": "Not Mentioned",
+            "behavior_of_ai": "Unwanted Inappropriate Responses",
+            "if_unwanted_inappropriate_responses": {
+                "frequency": "Often",
+                "nature": [
+                    "Unwanted Topics",
+                    "Lack of Sensitivity"
+                ]
+            },
+            "ai_support_level": "Not Mentioned",
+            "support_types": [
+                "Sexual Support",
+                "Not Mentioned"
+            ],
+            "user_mental_state": {
+                "before_ai_use": "Not Mentioned",
+                "effect_of_ai_use": "Worsened"
+            },
+            "user_conditions": {
+                "stress": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "loneliness": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "depression_or_anxiety": {
+                    "before_ai": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "suicidal_thoughts": {
+                    "presence": "Not Mentioned",
+                    "effect_of_ai": "Not Mentioned"
+                },
+                "other_despair_before_using_ai": {
+                    "types": [
+                        "Not Mentioned"
+                    ]
+                }
+            }
+        },
+        "company_policy_impact_on_mental_health": {
+            "technical_issues": "Not Mentioned",
+            "privacy_concerns": "Not Mentioned",
+            "feature_restriction_impact": "Not Mentioned",
+            "cost_impact_on_accessibility": "Not Mentioned",
+            "impact_of_ai_updates": "Not Mentioned",
+            "user_satisfaction_with_policy_decisions": "Not Mentioned",
+            "overall_mental_health_impact_of_company_decisions": "Not Mentioned"
+        },
+        "user_name": "Cupcake Plays"
+    }
+]

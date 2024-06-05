@@ -1,0 +1,37 @@
+Instruction Version,Error Text,Count
+instructions_version_1,Expecting value: line 1 column 1 (char 0),511
+instructions_version_1,nan,480
+instructions_version_1,"Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",5
+instructions_version_1,"Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Not found'}}",3
+instructions_version_1,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}}",1
+instructions_version_2,nan,639
+instructions_version_2,Expecting value: line 1 column 1 (char 0),347
+instructions_version_2,"Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",5
+instructions_version_2,"Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Not found'}}",4
+instructions_version_2,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}}",3
+instructions_version_2,"Expecting ',' delimiter: line 7 column 50 (char 244)",1
+instructions_version_2,"Expecting ',' delimiter: line 7 column 52 (char 254)",1
+instructions_version_3,nan,980
+instructions_version_3,"Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",11
+instructions_version_3,Expecting value: line 1 column 1 (char 0),5
+instructions_version_3,"Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Not found'}}",4
+instructions_version_4,nan,977
+instructions_version_4,"Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",5
+instructions_version_4,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}}",3
+instructions_version_4,Expecting value: line 1 column 1 (char 0),3
+instructions_version_4,"Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Not found'}}",2
+instructions_version_4,Expecting property name enclosed in double quotes: line 59 column 9 (char 2209),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 61 column 9 (char 2283),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 59 column 9 (char 2206),1
+instructions_version_4,"Expecting ',' delimiter: line 7 column 48 (char 243)",1
+instructions_version_4,Expecting property name enclosed in double quotes: line 59 column 9 (char 2185),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 59 column 9 (char 2220),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 56 column 9 (char 2095),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 60 column 9 (char 2208),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 60 column 9 (char 2205),1
+instructions_version_4,Expecting property name enclosed in double quotes: line 57 column 9 (char 2129),1
+instructions_version_5,nan,968
+instructions_version_5,Expecting value: line 1 column 1 (char 0),19
+instructions_version_5,"Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",6
+instructions_version_5,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}}",4
+instructions_version_5,"Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Not found'}}",3

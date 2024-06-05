@@ -1,0 +1,26 @@
+Instruction Version,Error Text,Count
+instructions_version_1,nan,698
+instructions_version_1,'str' object has no attribute 'get',1
+instructions_version_1,'coherence_and_clarity_of_review',1
+instructions_version_2,nan,698
+instructions_version_2,'privacy_concerns',1
+instructions_version_2,'frequency_of_app_usage',1
+instructions_version_3,nan,699
+instructions_version_3,'user_dependence_on_ai',1
+instructions_version_4,nan,686
+instructions_version_4,'company_policy_impact_on_mental_health',4
+instructions_version_4,"Expecting ',' delimiter: line 80 column 2945 (char 83029)",1
+instructions_version_4,"Expecting ',' delimiter: line 6138 column 65 (char 62095)",1
+instructions_version_4,"Expecting ',' delimiter: line 5517 column 2 (char 8442)",1
+instructions_version_4,"Expecting ',' delimiter: line 6099 column 1 (char 11453)",1
+instructions_version_4,"Expecting ',' delimiter: line 26425 column 4 (char 32970)",1
+instructions_version_4,"Expecting ',' delimiter: line 4946 column 9 (char 43242)",1
+instructions_version_4,"Expecting ',' delimiter: line 4300 column 4 (char 8425)",1
+instructions_version_4,"Expecting ',' delimiter: line 1327 column 1 (char 8398)",1
+instructions_version_4,"Expecting ',' delimiter: line 66 column 6735 (char 9079)",1
+instructions_version_4,"Expecting ',' delimiter: line 4448 column 1 (char 9028)",1
+instructions_version_5,nan,695
+instructions_version_5,'company_policy_impact_on_mental_health',2
+instructions_version_5,"Expecting ',' delimiter: line 87 column 897 (char 84012)",1
+instructions_version_5,'relationship_status_of_user',1
+instructions_version_5,"Expecting ',' delimiter: line 5575 column 2 (char 8447)",1
